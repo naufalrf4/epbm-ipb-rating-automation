@@ -29,8 +29,8 @@ Before running the script, ensure you have the following installed:
 ## **Download**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/naufalrf4/epbm-rating-automation.git
-   cd epbm-rating-automation
+   git clone https://github.com/naufalrf4/epbm-ipb-rating-automation.git
+   cd epbm-ipb-rating-automation
    ```
 
 ---
